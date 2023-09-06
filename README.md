@@ -1,6 +1,8 @@
-# UT Raccoon, aka poostorm
+# UT Raccoons & What's in a Name?
 This was an iOS application designed and developed in XCode using Swift and SwiftUI. 
 Made by me (Jinni) for my iOS Programming course at school. 
+
+Named poostorm in github for the absolute wreck that (almost) happened! But didn't. :)
 
 ## Basic Functionalities
 *Goal: Creating an application where a user can create an account, login, and make posts that give info on free things around college campus.*
